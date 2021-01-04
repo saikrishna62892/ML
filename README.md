@@ -1,5 +1,7 @@
 Definition of Machine Learning ?
+
 Field of study that gives computers the capability to learn without being explicitly programmed
+
 Example: 	Training of students during exams.
 		Targeted Advertisement in FB,Instagram
 		Diagnosis of Cancer in Healthcare
@@ -7,9 +9,12 @@ Example: 	Training of students during exams.
 		Spam detection in Gmail
 		Web Search Engine
 		Face Recognition for photo tagging
+
 Basic Difference in ML and Traditional Programming?
+
 Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
  
+
 Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.
 
 
